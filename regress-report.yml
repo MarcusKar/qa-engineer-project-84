@@ -20,7 +20,7 @@ test-cases:
       Проверка кнопки в корзину на странице товара
     status: fail
     
-  bugreports:
+bugreports:
   - summary: |
       Сброс на главную страницу при переключении флажка наличия товаров
     environment: |
