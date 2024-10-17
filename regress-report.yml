@@ -103,6 +103,10 @@ test-cases:
   - summary: |
       Проверка отправки заказа на сервер
     status: fail
+
+  - summary: |
+      Не работает поиск товаров на русском языке
+    status: fail
   
     
 bugreports:
