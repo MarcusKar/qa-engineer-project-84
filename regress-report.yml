@@ -25,6 +25,10 @@ test-cases:
     status: pass
 
   - summary: |
+      Полный перевод при переключении языка
+    status: pass
+
+  - summary: |
       Фильтрация товаров по цене
     status: pass
 
