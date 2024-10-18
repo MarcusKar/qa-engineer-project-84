@@ -17,11 +17,15 @@
 
 - summary: |
     Поиск по ключевому слову и категории
-  status: pass
+  status: fail
 
 - summary: |
     Переключение языка
   status: pass
+
+- summary: |
+    Полный перевод сайта при переключении языка
+  status: fail
 
 - summary: |
     Фильтрация товаров по цене
