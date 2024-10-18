@@ -107,6 +107,10 @@ test-cases:
   - summary: |
       Не работает поиск товаров на русском языке
     status: fail
+
+  - summary: |
+      Проверка фиксированного нахождения товаров на страницах
+    status: pass
   
     
 bugreports:
